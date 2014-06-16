@@ -1,0 +1,2 @@
+build/*
+!build/my-build-script.sh
