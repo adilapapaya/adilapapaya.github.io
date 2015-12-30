@@ -4,9 +4,9 @@ Who are you and what are you doing here?
 
 ### Why is this a header?
 
-This project attempts to answer none of this. 
+Seek within yourself the answers to these questionns but fret not if they are nowhere to be found; some questions are purely hypothetical. 
 
-I leave you with one piece of important advice:
+Finally, remember,
 
-> *Anything italicized sounds much more important*
+> *Anything italicized sounds much more important.*
 
